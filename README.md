@@ -1,2 +1,2 @@
-# Flask-ToDo-App
-Simple ToDo App made using Flask, HTML, CSS &amp; MySQL
+# TaskManager
+Simple Task Manager App made using Flask, HTML, CSS &amp; MySQL
